@@ -1,0 +1,29 @@
+{
+  "name": "@tencent/voltron-debug-server",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "voltron-debug": "index.js"
+  },
+  "scripts": {},
+  "repository": "",
+  "keywords": [
+    "voltron",
+    "debug",
+    "debugger"
+  ],
+  "author": "",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "chrome-opn": "^1.0.1",
+    "find-up": "^4.1.0",
+    "koa": "^2.3.0",
+    "mime": "^2.5.2",
+    "query-string": "^7.0.0",
+    "signale": "^1.4.0",
+    "ws": "^1.1.5",
+    "yargs": "^15.0.2"
+  }
+}

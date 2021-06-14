@@ -1,0 +1,18 @@
+{
+  "name": "@voltron/vue-css-loader",
+  "version": "1.0.0",
+  "description": "voltron-vue style loader module for webpack",
+  "main": "dist/index.js",
+  "keywords": [
+    "vue",
+    "hippy-vue",
+    "css-loader",
+    "webpack"
+  ],
+  "dependencies": {
+    "loader-utils": "^1.0.2"
+  },
+  "devDependencies": {
+    "ava": "^3.5.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@voltron/vue-native-components",
+  "version": "1.0.0",
+  "description": "Native components middleware for Voltron-Vue, the components only for native, can't compatible with web.",
+  "main": "dist/index.js",
+  "keywords": [
+    "Voltron-Vue",
+    "Native",
+    "TabHost",
+    "ViewPager",
+    "RefreshWrapper",
+    "tab-host",
+    "view-pager",
+    "ul-refresh"
+  ]
+}
