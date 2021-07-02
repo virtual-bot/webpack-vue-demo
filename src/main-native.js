@@ -21,6 +21,12 @@ const app = new Vue({
   rootView: '#root',
   // 渲染自己
   render: h => h(App),
+  // 禁用iphone自动绘制状态栏
+  iPhone: {
+    statusBar: {
+      disabled: true,
+    },
+  },
 });
 
 /**
